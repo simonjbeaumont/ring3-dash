@@ -1,2 +1,0 @@
-* * * * * @USER@ timeout 30 python @CWD@/github.py
-* * * * * @USER@ timeout 30 python @CWD@/tickets.py
